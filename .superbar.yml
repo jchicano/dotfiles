@@ -1,0 +1,63 @@
+---
+###########
+# Actions #
+###########
+# copy-to-clipboard
+# run-in-terminal
+# open-in-browser
+# commandline
+
+# Feel free to use emojis in names!
+
+# Use http://www.yamllint.com/ to validate your yml!
+
+- Bookmarks:
+    - 😼 ProductHunt:
+        action: open-in-browser
+        command: https://producthunt.com
+    - 📈 Google Analytics:
+        action: open-in-browser
+        command: https://analytics.google.com
+- Workspace:
+    - Work:
+        action: commandline
+        command: open -a Slack && open -a Spotify
+    - Home:
+        action: commandline
+        command: open -a Steam
+- Commands:
+    - ☕ Caffeinate:
+        action: run-in-terminal
+        command: caffeinate
+    - HTTP Server 8008:
+        action: run-in-terminal
+        command: cd /Users/mbp/web/ && python -m SimpleHTTPServer 8008
+    - Open XAMPP:
+        action: run-in-terminal
+        command: /Volumes/Macintosh\ HD/Applications/XAMPP && open -a manager-osx.app && open .
+    #    - SSH Work Server:
+    #        action: run-in-terminal
+    #        command: ssh my@server.io
+    #    - Show Active Processes:
+    #        action: run-in-terminal
+    #        command: top
+    - Open Android emulator:
+        action: commandline
+        command: /Users/mbp/Library/Android/sdk/emulator/emulator -avd Nexus_5X_API_29_x86 -netdelay none -netspeed full
+    - Sleep 😴:
+        action: commandline
+        command: pmset sleepnow
+- Git:
+    - ✨New project:
+        action: commandline
+        command: cd ~ && open -a Terminal.app scripts/create.sh
+    - Empty Commit:
+        action: copy-to-clipboard
+        command: git commit --allow-empty -m 'Commit message'
+- 📝 Snippets:
+    - 📍Office Address GMaps Link:
+        action: copy-to-clipboard
+        command: https://goo.gl/maps/qkg5kRCcyr4DBxsJ8
+    - Tim's email:
+        action: copy-to-clipboard
+        command: tim@apple.com
