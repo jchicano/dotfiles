@@ -32,9 +32,12 @@
     - HTTP Server 8008:
         action: run-in-terminal
         command: cd /Users/mbp/web/ && python -m SimpleHTTPServer 8008
+   - Open NeoVim:
+        action: run-in-terminal
+        command: ./nvim-osx64/bin/nvim
     - Open XAMPP:
         action: run-in-terminal
-        command: /Volumes/Macintosh\ HD/Applications/XAMPP && open -a manager-osx.app && open .
+        command: cd /Volumes/Macintosh\ HD/Applications/XAMPP/ && open manager-osx.app && open .
     #    - SSH Work Server:
     #        action: run-in-terminal
     #        command: ssh my@server.io
