@@ -3,4 +3,4 @@
 
 ## macOS
 
-See [`macos/`](macos/) for screensaver and related notes (e.g. Fliqlo).
+See [`macos/`](macos/) for screensaver, browsers (Search, Helium), and related notes.

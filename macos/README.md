@@ -11,3 +11,8 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 1. Download from [fliqlo.com/screensaver](https://fliqlo.com/screensaver/).
 2. Open the `.saver` (or follow the site’s installer).
 3. System Settings → Screen Saver → choose **Fliqlo**.
+
+## Browsers
+
+- **[Search](https://github.com/driceroland/Search)** — Small, fast WebKit browser for macOS (Office Commun).
+- **[Helium](https://github.com/imputnet/helium)** — Private, fast, and honest web browser.
