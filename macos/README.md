@@ -20,3 +20,7 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 ## Multi-device desk
 
 - **[TwinDesk](https://github.com/InukaAsith/TwinDesk)** — Share screens, apps, files, clipboard, mouse/keyboard, calls, texts, and notifications across Mac, Windows, Linux, and Android. Free, open source, no account/cloud; works over Wi‑Fi, USB, Bluetooth, or Wi‑Fi Direct. Site: [twin-desk.vercel.app](https://twin-desk.vercel.app). macOS 13+ (Apple Silicon / Intel DMG).
+
+## Menu bar utilities
+
+- **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)** — Free open-source macOS menu bar toolkit (volume mixer, system monitor, app switcher, window layout, clipboard history, snippets, uninstaller, and more). Install only the features you use; no account, no telemetry. Site: [vorssaint.com](https://vorssaint.com). Requires macOS 14+ Apple Silicon.
