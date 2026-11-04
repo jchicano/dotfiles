@@ -62,6 +62,11 @@ Cross-platform remote access / screen sharing (links, not vendored).
 - **[Jump Desktop](https://jumpdesktop.com/)** — RDP/VNC client (Mac/iOS). Homebrew: `brew install --cask jump-desktop` (host: `jump-desktop-connect`).
 - **[Screens 5](https://apps.apple.com/es/app/screens-5-vnc-escritorio/id1663047912)** — VNC remote desktop for Mac (Edovia). App Store.
 
+## Terminals
+
+- **[Warp](https://github.com/warpdotdev/warp)** — Agentic development environment born out of the terminal (Rust). Site: [warp.dev/terminal](https://www.warp.dev/terminal). Homebrew: `brew install --cask warp`.
+- **[Ghostty](https://github.com/ghostty-org/ghostty)** — Fast, feature-rich cross-platform terminal with native UI and GPU acceleration. Site: [ghostty.org](https://ghostty.org/). Homebrew: `brew install --cask ghostty`.
+
 ## Utilities
 
 - **[AppCleaner](https://freemacsoft.net/appcleaner/)** — Thorough Mac app uninstaller (removes leftovers). Free. Homebrew: `brew install --cask appcleaner`.
