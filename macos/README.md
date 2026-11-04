@@ -32,3 +32,7 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 ## Legacy Macs
 
 - **[OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)** — Run modern macOS (Big Sur through Sequoia/Tahoe) on Macs Apple no longer supports, via OpenCore + Lilu. Also unlocks features (e.g. Sidecar, AirPlay to Mac) on some native Macs. Guide: [dortania.github.io/OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/).
+
+## Battery
+
+- **[AlDente](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring)** — Menu bar charge limiter to prolong MacBook battery life (set max charge %, discharge while plugged in). Free + Pro. macOS 12+. Site: [apphousekitchen.com](https://apphousekitchen.com/). Homebrew: `brew install --cask aldente`.
