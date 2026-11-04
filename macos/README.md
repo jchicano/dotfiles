@@ -28,3 +28,7 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 ## Displays
 
 - **[BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock Mac displays: flexible HiDPI scaling, XDR/HDR brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. Site/guide: [betterdisplay.pro](https://betterdisplay.pro).
+
+## Legacy Macs
+
+- **[OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)** — Run modern macOS (Big Sur through Sequoia/Tahoe) on Macs Apple no longer supports, via OpenCore + Lilu. Also unlocks features (e.g. Sidecar, AirPlay to Mac) on some native Macs. Guide: [dortania.github.io/OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/).
