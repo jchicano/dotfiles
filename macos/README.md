@@ -24,3 +24,7 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 ## Menu bar utilities
 
 - **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)** — Free open-source macOS menu bar toolkit (volume mixer, system monitor, app switcher, window layout, clipboard history, snippets, uninstaller, and more). Install only the features you use; no account, no telemetry. Site: [vorssaint.com](https://vorssaint.com). Requires macOS 14+ Apple Silicon.
+
+## Displays
+
+- **[BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock Mac displays: flexible HiDPI scaling, XDR/HDR brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. Site/guide: [betterdisplay.pro](https://betterdisplay.pro).

@@ -3,4 +3,4 @@
 
 ## macOS
 
-See [`macos/`](macos/) for screensaver, browsers (Search, Helium), TwinDesk, Vorssaint, and related notes.
+See [`macos/`](macos/) for screensaver, browsers (Search, Helium), TwinDesk, Vorssaint, BetterDisplay, and related notes.
