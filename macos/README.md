@@ -26,6 +26,10 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 - **[Maccy](https://github.com/p0deje/Maccy)** — Lightweight clipboard manager for macOS (history search, paste previous copies). Free, open source. Site: [maccy.app](https://maccy.app). Homebrew: `brew install --cask maccy`.
 - **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)** — Free open-source macOS menu bar toolkit (volume mixer, system monitor, app switcher, window layout, clipboard history, snippets, uninstaller, and more). Install only the features you use; no account, no telemetry. Site: [vorssaint.com](https://vorssaint.com). Requires macOS 14+ Apple Silicon.
 
+## Mouse & scrolling
+
+- **[Mos](https://github.com/Caldis/Mos)** — Smooth mouse scrolling on macOS and set scroll direction independently (trackpad-like wheel). Free, open source. Site: [mos.caldis.me](http://mos.caldis.me). Homebrew: `brew install --cask mos`.
+
 ## Displays
 
 - **[BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock Mac displays: flexible HiDPI scaling, XDR/HDR brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. Site/guide: [betterdisplay.pro](https://betterdisplay.pro).
@@ -34,6 +38,10 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 ## Legacy Macs
 
 - **[OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)** — Run modern macOS (Big Sur through Sequoia/Tahoe) on Macs Apple no longer supports, via OpenCore + Lilu. Also unlocks features (e.g. Sidecar, AirPlay to Mac) on some native Macs. Guide: [dortania.github.io/OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/).
+
+## Audio
+
+- **[BetterAudio](https://github.com/rokartur/BetterAudio)** — Master your Mac’s audio (menu bar / system audio control). Free core + optional support license. macOS 14.6+. Site: [betteraudio.pro](https://betteraudio.pro). Homebrew: `brew install --cask betteraudio`.
 
 ## Battery
 
