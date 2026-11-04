@@ -30,6 +30,10 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 
 - **[Mos](https://github.com/Caldis/Mos)** — Smooth mouse scrolling on macOS and set scroll direction independently (trackpad-like wheel). Free, open source. Site: [mos.caldis.me](http://mos.caldis.me). Homebrew: `brew install --cask mos`.
 
+## Desk gestures
+
+- **[Holo](https://github.com/JustinGamer191/Holo)** — Tap your desk; your Mac responds. Experimental native utility that turns the area around a MacBook into four assignable tap zones (mic-based, local). Actions: Shortcut, app, URL, shell, screenshot, etc. macOS 14+. Landing: [justingamer191.github.io/Holo](https://justingamer191.github.io/Holo/). Releases: [github.com/JustinGamer191/Holo/releases](https://github.com/JustinGamer191/Holo/releases).
+
 ## Displays
 
 - **[BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock Mac displays: flexible HiDPI scaling, XDR/HDR brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. Site/guide: [betterdisplay.pro](https://betterdisplay.pro).
