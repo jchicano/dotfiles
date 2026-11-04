@@ -23,11 +23,13 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 
 ## Menu bar utilities
 
+- **[Maccy](https://github.com/p0deje/Maccy)** — Lightweight clipboard manager for macOS (history search, paste previous copies). Free, open source. Site: [maccy.app](https://maccy.app). Homebrew: `brew install --cask maccy`.
 - **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)** — Free open-source macOS menu bar toolkit (volume mixer, system monitor, app switcher, window layout, clipboard history, snippets, uninstaller, and more). Install only the features you use; no account, no telemetry. Site: [vorssaint.com](https://vorssaint.com). Requires macOS 14+ Apple Silicon.
 
 ## Displays
 
 - **[BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock Mac displays: flexible HiDPI scaling, XDR/HDR brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. Site/guide: [betterdisplay.pro](https://betterdisplay.pro).
+- **[MonitorControl](https://github.com/MonitorControl/MonitorControl)** — Control external display brightness & volume from the Mac (keyboard shortcuts, native OSDs) as if it were an Apple Display. Free, open source. Site: [monitorcontrol.app](https://monitorcontrol.app). Homebrew: `brew install --cask monitorcontrol`.
 
 ## Legacy Macs
 
