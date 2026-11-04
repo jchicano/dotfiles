@@ -50,3 +50,18 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 ## Battery
 
 - **[AlDente](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring)** — Menu bar charge limiter to prolong MacBook battery life (set max charge %, discharge while plugged in). Free + Pro. macOS 12+. Site: [apphousekitchen.com](https://apphousekitchen.com/). Homebrew: `brew install --cask aldente`.
+
+## Remote desktop
+
+Cross-platform remote access / screen sharing (links, not vendored).
+
+- **[TeamViewer](https://www.teamviewer.com/)** — Remote control and support across desktop and mobile. Homebrew: `brew install --cask teamviewer`.
+- **[AnyDesk](https://anydesk.com/)** — Lightweight remote desktop. Homebrew: `brew install --cask anydesk`.
+- **[NoMachine](https://www.nomachine.com/)** — NX-based remote desktop (also [ES](https://www.nomachine.com/es/)). Homebrew: `brew install --cask nomachine`.
+- **[Parsec](https://parsec.app/)** — Low-latency remote desktop / game streaming. Homebrew: `brew install --cask parsec`.
+- **[Jump Desktop](https://jumpdesktop.com/)** — RDP/VNC client (Mac/iOS). Homebrew: `brew install --cask jump-desktop` (host: `jump-desktop-connect`).
+- **[Screens 5](https://apps.apple.com/es/app/screens-5-vnc-escritorio/id1663047912)** — VNC remote desktop for Mac (Edovia). App Store.
+
+## Utilities
+
+- **[AppCleaner](https://freemacsoft.net/appcleaner/)** — Thorough Mac app uninstaller (removes leftovers). Free. Homebrew: `brew install --cask appcleaner`.

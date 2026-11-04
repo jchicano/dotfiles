@@ -3,7 +3,7 @@
 
 ## macOS
 
-See [`macos/`](macos/) for screensaver, browsers (Search, Helium), TwinDesk, Vorssaint, BetterDisplay, OpenCore Legacy Patcher, AlDente, and related notes.
+See [`macos/`](macos/) for screensaver, browsers, TwinDesk, utilities (Maccy, Vorssaint, AppCleaner, …), displays, remote desktop (TeamViewer, AnyDesk, NoMachine, Parsec, Jump, Screens), OpenCore Legacy Patcher, AlDente, and related notes.
 
 ## Windows
 
