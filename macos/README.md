@@ -65,3 +65,4 @@ Cross-platform remote access / screen sharing (links, not vendored).
 ## Utilities
 
 - **[AppCleaner](https://freemacsoft.net/appcleaner/)** — Thorough Mac app uninstaller (removes leftovers). Free. Homebrew: `brew install --cask appcleaner`.
+- **[neofetch](https://github.com/dylanaraps/neofetch)** — CLI system-info banner (bash). Repo archived; no longer in Homebrew core. Maintained alternative: **[fastfetch](https://github.com/fastfetch-cli/fastfetch)** — `brew install fastfetch`.
