@@ -68,6 +68,7 @@ Cross-platform remote access / screen sharing (links, not vendored).
 - **[Ghostty](https://github.com/ghostty-org/ghostty)** — Fast, feature-rich cross-platform terminal with native UI and GPU acceleration. Site: [ghostty.org](https://ghostty.org/). Homebrew: `brew install --cask ghostty`.
 - **[Alacritty](https://github.com/alacritty/alacritty)** — Cross-platform, GPU-accelerated OpenGL terminal emulator. Homebrew: `brew install --cask alacritty`.
 - **[WezTerm](https://github.com/wezterm/wezterm)** — GPU-accelerated cross-platform terminal emulator and multiplexer (Rust). Site: [wezterm.org](https://wezterm.org/). Homebrew: `brew install --cask wezterm`.
+- **[Kitty](https://github.com/kovidgoyal/kitty)** — Fast, feature-rich, GPU-based cross-platform terminal emulator. Site: [sw.kovidgoyal.net/kitty](https://sw.kovidgoyal.net/kitty/). Homebrew: `brew install --cask kitty`.
 - **[cmux](https://github.com/manaflow-ai/cmux)** — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Site: [cmux.dev](https://www.cmux.dev/). Homebrew: `brew install --cask cmux`.
 
 ## Utilities
