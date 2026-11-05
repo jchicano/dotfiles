@@ -66,6 +66,9 @@ Cross-platform remote access / screen sharing (links, not vendored).
 
 - **[Warp](https://github.com/warpdotdev/warp)** — Agentic development environment born out of the terminal (Rust). Site: [warp.dev/terminal](https://www.warp.dev/terminal). Homebrew: `brew install --cask warp`.
 - **[Ghostty](https://github.com/ghostty-org/ghostty)** — Fast, feature-rich cross-platform terminal with native UI and GPU acceleration. Site: [ghostty.org](https://ghostty.org/). Homebrew: `brew install --cask ghostty`.
+- **[Alacritty](https://github.com/alacritty/alacritty)** — Cross-platform, GPU-accelerated OpenGL terminal emulator. Homebrew: `brew install --cask alacritty`.
+- **[WezTerm](https://github.com/wezterm/wezterm)** — GPU-accelerated cross-platform terminal emulator and multiplexer (Rust). Site: [wezterm.org](https://wezterm.org/). Homebrew: `brew install --cask wezterm`.
+- **[cmux](https://github.com/manaflow-ai/cmux)** — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Site: [cmux.dev](https://www.cmux.dev/). Homebrew: `brew install --cask cmux`.
 
 ## Utilities
 

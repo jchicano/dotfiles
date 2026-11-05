@@ -3,7 +3,7 @@
 
 ## macOS
 
-See [`macos/`](macos/) for screensaver, browsers, TwinDesk, terminals (Warp, Ghostty), utilities (Maccy, Vorssaint, AppCleaner, …), displays, remote desktop (TeamViewer, AnyDesk, NoMachine, Parsec, Jump, Screens), OpenCore Legacy Patcher, AlDente, and related notes.
+See [`macos/`](macos/) for screensaver, browsers, TwinDesk, terminals (Warp, Ghostty, Alacritty, WezTerm, cmux), utilities (Maccy, Vorssaint, AppCleaner, …), displays, remote desktop (TeamViewer, AnyDesk, NoMachine, Parsec, Jump, Screens), OpenCore Legacy Patcher, AlDente, and related notes.
 
 ## Windows
 
