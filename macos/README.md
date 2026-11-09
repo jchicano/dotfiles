@@ -27,6 +27,11 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 - **[Ice](https://github.com/jordanbaird/Ice)** — Powerful menu bar manager for macOS (hide/show items, notch-friendly layouts). Free, open source. Site: [icemenubar.app](https://icemenubar.app). macOS 14+. Homebrew: `brew install --cask jordanbaird-ice`.
 - **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)** — Free open-source macOS menu bar toolkit (volume mixer, system monitor, app switcher, window layout, clipboard history, snippets, uninstaller, and more). Install only the features you use; no account, no telemetry. Site: [vorssaint.com](https://vorssaint.com). Requires macOS 14+ Apple Silicon.
 
+## Notch & Dynamic Island
+
+- **[Sapphire](https://github.com/cshariq/Sapphire)** — All-in-one free open-source notch app for MacBooks (Now Playing, calendar, weather, file shelf, Nearby Share from Android, window snapping, lock-screen widgets, and more). Site: [sapphire-app.tech](https://sapphire-app.tech). Download: [releases](https://github.com/cshariq/Sapphire/releases/latest).
+- **[Droppy](https://getdroppy.app/)** — Supercharged Dynamic Island for Mac (works with or without a notch): Live Activities, file tray, clipboard, Now Playing, 41 free Droplets (agents, meetings, cleaner, etc.). Paid one-time license; 3-day free trial. macOS 14+. Site: [getdroppy.app](https://getdroppy.app/). Homebrew: `brew install --cask droppy`.
+
 ## Mouse & scrolling
 
 - **[Mos](https://github.com/Caldis/Mos)** — Smooth mouse scrolling on macOS and set scroll direction independently (trackpad-like wheel). Free, open source. Site: [mos.caldis.me](http://mos.caldis.me). Homebrew: `brew install --cask mos`.
@@ -75,4 +80,5 @@ Cross-platform remote access / screen sharing (links, not vendored).
 ## Utilities
 
 - **[AppCleaner](https://freemacsoft.net/appcleaner/)** — Thorough Mac app uninstaller (removes leftovers). Free. Homebrew: `brew install --cask appcleaner`.
+- **[Mole](https://github.com/tw93/mole)** — Free open-source Mac cleaner / optimizer (deep clean, smart uninstall, disk analyzer, live status). CLI (`mo`) plus native Mac and Windows apps. Site: [mole.fit](https://mole.fit). Homebrew (CLI): `brew install mole`.
 - **[neofetch](https://github.com/dylanaraps/neofetch)** — CLI system-info banner (bash). Repo archived; no longer in Homebrew core. Maintained alternative: **[fastfetch](https://github.com/fastfetch-cli/fastfetch)** — `brew install fastfetch`.
