@@ -31,6 +31,7 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 
 - **[Sapphire](https://github.com/cshariq/Sapphire)** — All-in-one free open-source notch app for MacBooks (Now Playing, calendar, weather, file shelf, Nearby Share from Android, window snapping, lock-screen widgets, and more). Site: [sapphire-app.tech](https://sapphire-app.tech). Download: [releases](https://github.com/cshariq/Sapphire/releases/latest).
 - **[Droppy](https://getdroppy.app/)** — Supercharged Dynamic Island for Mac (works with or without a notch): Live Activities, file tray, clipboard, Now Playing, 41 free Droplets (agents, meetings, cleaner, etc.). Paid one-time license; 3-day free trial. macOS 14+. Site: [getdroppy.app](https://getdroppy.app/). Homebrew: `brew install --cask droppy`.
+- **[Coucou](https://github.com/louis-cfm/coucou)** — Tiny open-source companion in the Mac notch (and Windows/Linux top bar) that watches AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Antigravity, and more): approve permissions, live diffs, chat, plus Flow dictation and call notetaker. Also on iPhone/Android. Free, MIT. macOS 15+. Site: [louis-cfm.github.io/coucou](https://louis-cfm.github.io/coucou/). Download: [releases](https://github.com/louis-cfm/coucou/releases/latest).
 
 ## Mouse & scrolling
 

@@ -9,3 +9,7 @@ Notes for Windows machines and cross-platform boot tools. Third-party apps are l
 ## Cleaners
 
 - **[Mole for Windows](https://mole.fit/windows)** — Native Windows cleaner companion to the open-source Mole toolkit ([tw93/mole](https://github.com/tw93/mole)). Also see the macOS notes.
+
+## Notch / agent companions
+
+- **[Coucou](https://github.com/louis-cfm/coucou)** — Open-source agent companion (also Windows/Linux desktop builds). Primary notes in [`macos/`](../macos/). Site: [louis-cfm.github.io/coucou](https://louis-cfm.github.io/coucou/).
