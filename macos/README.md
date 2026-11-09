@@ -46,6 +46,10 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 - **[BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock Mac displays: flexible HiDPI scaling, XDR/HDR brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. Site/guide: [betterdisplay.pro](https://betterdisplay.pro).
 - **[MonitorControl](https://github.com/MonitorControl/MonitorControl)** — Control external display brightness & volume from the Mac (keyboard shortcuts, native OSDs) as if it were an Apple Display. Free, open source. Site: [monitorcontrol.app](https://monitorcontrol.app). Homebrew: `brew install --cask monitorcontrol`.
 
+## Dock
+
+- **[docktor](https://docktorapp.com/)** — Free notarized macOS utility: live Dock window previews on hover, optional Cmd+Tab with thumbnails, plus glass widgets beside the Dock (Music, Calendar, Weather, System Stats, Device Batteries). No account. Site: [docktorapp.com](https://docktorapp.com/).
+
 ## Legacy Macs
 
 - **[OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)** — Run modern macOS (Big Sur through Sequoia/Tahoe) on Macs Apple no longer supports, via OpenCore + Lilu. Also unlocks features (e.g. Sidecar, AirPlay to Mac) on some native Macs. Guide: [dortania.github.io/OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/).
@@ -78,8 +82,19 @@ Cross-platform remote access / screen sharing (links, not vendored).
 - **[Kitty](https://github.com/kovidgoyal/kitty)** — Fast, feature-rich, GPU-based cross-platform terminal emulator. Site: [sw.kovidgoyal.net/kitty](https://sw.kovidgoyal.net/kitty/). Homebrew: `brew install --cask kitty`.
 - **[cmux](https://github.com/manaflow-ai/cmux)** — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Site: [cmux.dev](https://www.cmux.dev/). Homebrew: `brew install --cask cmux`.
 
+## File converters
+
+- **[Tangerine](https://tangerineformac.com/)** — Zero-click offline file converter for Mac (drag + Shift to convert images, video, audio, documents, archives locally; no uploads). Mac App Store.
+- **[Filee](https://github.com/KnifeLemon/Filee)** — **Recommended open-source alternative to Tangerine.** Free offline converter for 263 formats (images, PDF, Office, HWP, video, audio, e-books, archives) via drag-and-drop; no upload, no Office required. macOS 13+ (preview), Windows, Linux. Site: [filee.sh](https://filee.sh). Download: [releases](https://github.com/KnifeLemon/Filee/releases/latest).
+
 ## Utilities
 
 - **[AppCleaner](https://freemacsoft.net/appcleaner/)** — Thorough Mac app uninstaller (removes leftovers). Free. Homebrew: `brew install --cask appcleaner`.
 - **[Mole](https://github.com/tw93/mole)** — Free open-source Mac cleaner / optimizer (deep clean, smart uninstall, disk analyzer, live status). CLI (`mo`) plus native Mac and Windows apps. Site: [mole.fit](https://mole.fit). Homebrew (CLI): `brew install mole`.
+- **[Mac Sai](https://github.com/iliyami/MacSai)** — Free open-source Mac cleaner, optimizer, and malware scanner (Apple-notarized CleanMyMac alternative; Swift 6 / SwiftUI). Site/repo: [github.com/iliyami/MacSai](https://github.com/iliyami/MacSai). Homebrew: `brew install --cask mac-sai`.
 - **[neofetch](https://github.com/dylanaraps/neofetch)** — CLI system-info banner (bash). Repo archived; no longer in Homebrew core. Maintained alternative: **[fastfetch](https://github.com/fastfetch-cli/fastfetch)** — `brew install fastfetch`.
+
+## Smart TV
+
+- **[CleanYourTV](https://github.com/Gathin23/cleanyourtv)** — Debloat Android / Google / Fire TV over Wi‑Fi (ADB) and get an Apple TV–style home; no root, reversible. Site: [cleanyour.tv](https://cleanyour.tv).
+

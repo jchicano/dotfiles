@@ -13,3 +13,7 @@ Notes for Windows machines and cross-platform boot tools. Third-party apps are l
 ## Notch / agent companions
 
 - **[Coucou](https://github.com/louis-cfm/coucou)** — Open-source agent companion (also Windows/Linux desktop builds). Primary notes in [`macos/`](../macos/). Site: [louis-cfm.github.io/coucou](https://louis-cfm.github.io/coucou/).
+
+## File converters
+
+- **[Filee](https://github.com/KnifeLemon/Filee)** — Free open-source offline converter (263 formats). Windows: `winget install KnifeLemon.Filee`. Site: [filee.sh](https://filee.sh). Also see macOS notes.
