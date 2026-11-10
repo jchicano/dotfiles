@@ -17,3 +17,7 @@ Notes for Windows machines and cross-platform boot tools. Third-party apps are l
 ## File converters
 
 - **[Filee](https://github.com/KnifeLemon/Filee)** — Free open-source offline converter (263 formats). Windows: `winget install KnifeLemon.Filee`. Site: [filee.sh](https://filee.sh). Also see macOS notes.
+
+## PDF tools
+
+- **[Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)** — Open-core, self-hostable PDF toolbox (edit, merge, split, convert, OCR, sign, compress, redact). Windows: `winget install StirlingTools.StirlingPDF`. Site: [stirling.com](https://stirling.com/). Also see macOS notes.

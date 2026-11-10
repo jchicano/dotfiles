@@ -87,6 +87,10 @@ Cross-platform remote access / screen sharing (links, not vendored).
 - **[Tangerine](https://tangerineformac.com/)** — Zero-click offline file converter for Mac (drag + Shift to convert images, video, audio, documents, archives locally; no uploads). Mac App Store.
 - **[Filee](https://github.com/KnifeLemon/Filee)** — **Recommended open-source alternative to Tangerine.** Free offline converter for 263 formats (images, PDF, Office, HWP, video, audio, e-books, archives) via drag-and-drop; no upload, no Office required. macOS 13+ (preview), Windows, Linux. Site: [filee.sh](https://filee.sh). Download: [releases](https://github.com/KnifeLemon/Filee/releases/latest).
 
+## PDF tools
+
+- **[Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)** — Open-core, self-hostable PDF toolbox (~96k★): edit, merge, split, convert, OCR, sign, compress, redact, and 50+ more operations, processed locally. Desktop app for macOS/Windows/Linux or Docker/web server. Site: [stirling.com](https://stirling.com/). Homebrew: `brew install --cask stirling-pdf`.
+
 ## Utilities
 
 - **[AppCleaner](https://freemacsoft.net/appcleaner/)** — Thorough Mac app uninstaller (removes leftovers). Free. Homebrew: `brew install --cask appcleaner`.
