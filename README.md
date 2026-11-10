@@ -8,3 +8,7 @@ See [`macos/`](macos/) for screensaver, browsers, TwinDesk, terminals (Warp, Gho
 ## Windows
 
 See [`windows/`](windows/) for boot media (Ventoy) and related notes.
+
+## Self-hosted
+
+See [`self-hosted/`](self-hosted/) for Docker apps (Dockhand).
