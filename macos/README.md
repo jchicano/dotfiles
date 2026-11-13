@@ -47,6 +47,10 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 - **[BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock Mac displays: flexible HiDPI scaling, XDR/HDR brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. Site/guide: [betterdisplay.pro](https://betterdisplay.pro).
 - **[MonitorControl](https://github.com/MonitorControl/MonitorControl)** — Control external display brightness & volume from the Mac (keyboard shortcuts, native OSDs) as if it were an Apple Display. Free, open source. Site: [monitorcontrol.app](https://monitorcontrol.app). Homebrew: `brew install --cask monitorcontrol`.
 
+## AirPlay
+
+- **[UxPlay](https://github.com/FDH2/UxPlay)** — GPLv3 AirPlay Mirror / Audio (ALAC) server for macOS, Linux, and Unix (also builds on Windows): use an iPhone, iPad, or Mac as the client and this machine as the receiver (including as a second display). YouTube HLS from the iOS app is supported; AirPlay 2 multi-room audio is not. Current development is at [FDH2/UxPlay](https://github.com/FDH2/UxPlay) (originally [antimof/UxPlay](https://github.com/antimof/UxPlay)). No Homebrew formula. Build from source (CMake + GStreamer + libplist + OpenSSL); see the README’s macOS section. Then run `uxplay` (tip on macOS: `uxplay -vsync no`).
+
 ## Dock
 
 - **[docktor](https://docktorapp.com/)** — Free notarized macOS utility: live Dock window previews on hover, optional Cmd+Tab with thumbnails, plus glass widgets beside the Dock (Music, Calendar, Weather, System Stats, Device Batteries). No account. Site: [docktorapp.com](https://docktorapp.com/).
@@ -83,6 +87,10 @@ Cross-platform remote access / screen sharing (links, not vendored).
 - **[Kitty](https://github.com/kovidgoyal/kitty)** — Fast, feature-rich, GPU-based cross-platform terminal emulator. Site: [sw.kovidgoyal.net/kitty](https://sw.kovidgoyal.net/kitty/). Homebrew: `brew install --cask kitty`.
 - **[cmux](https://github.com/manaflow-ai/cmux)** — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Site: [cmux.dev](https://www.cmux.dev/). Homebrew: `brew install --cask cmux`.
 
+## Image editors
+
+- **[PhotoCraft](https://github.com/storytold/photocraft)** — Open-source (MIT/Apache-2.0) native image editor written in Rust: layers, masks, adjustment layers, type, brushes, and real PSD files, plus a CLI and MCP server for agents. macOS, Windows, Linux, FreeBSD, and web. Early alpha — not a Photoshop replacement for daily pro work yet. Site: [getartcraft.com/apps/photocraft](https://getartcraft.com/apps/photocraft). Homebrew: `brew install --cask photocraft`. Also on [releases](https://github.com/storytold/photocraft/releases/latest) (signed/notarized universal DMG).
+
 ## File converters
 
 - **[Tangerine](https://tangerineformac.com/)** — Zero-click offline file converter for Mac (drag + Shift to convert images, video, audio, documents, archives locally; no uploads). Mac App Store.
@@ -98,6 +106,12 @@ Cross-platform remote access / screen sharing (links, not vendored).
 - **[Mole](https://github.com/tw93/mole)** — Free open-source Mac cleaner / optimizer (deep clean, smart uninstall, disk analyzer, live status). CLI (`mo`) plus native Mac and Windows apps. Site: [mole.fit](https://mole.fit). Homebrew (CLI): `brew install mole`.
 - **[Mac Sai](https://github.com/iliyami/MacSai)** — Free open-source Mac cleaner, optimizer, and malware scanner (Apple-notarized CleanMyMac alternative; Swift 6 / SwiftUI). Site/repo: [github.com/iliyami/MacSai](https://github.com/iliyami/MacSai). Homebrew: `brew install --cask mac-sai`.
 - **[neofetch](https://github.com/dylanaraps/neofetch)** — CLI system-info banner (bash). Repo archived; no longer in Homebrew core. Maintained alternative: **[fastfetch](https://github.com/fastfetch-cli/fastfetch)** — `brew install fastfetch`.
+- **[OpenHaystack](https://github.com/seemoo-lab/openhaystack)** — Experimental Mac app (TU Darmstadt / SEEMOO) to build your own Bluetooth tracking tags and locate *your* accessories via Apple’s Find My network (e.g. a micro:bit). macOS 11+. Not affiliated with Apple. Download from [releases](https://github.com/seemoo-lab/openhaystack/releases); the app installs a Mail plugin to fetch your own encrypted location reports — follow the repo’s Installation steps carefully (they temporarily adjust Gatekeeper). Site: [owlink.org](https://owlink.org).
+- **[Zero Breach Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** — Free open-source, read-only check for traces of known mercenary spyware (Pegasus, Predator, Graphite, Candiru, and others) on this computer, Android phones, or iPhone backups. No network requests during a scan; a clean result is not a guarantee of safety. macOS, Windows, and Linux apps (27 languages). Download: [releases](https://github.com/interplains/Zero-Breach-Toolkit/releases/latest) (`zero-breach-toolkit-macos-apple-silicon.dmg` or `…-macos-intel.dmg`). Also see Windows notes.
+
+## Networking
+
+- **[net-merge](https://github.com/net-merge/net-merge)** — Use Wi-Fi, Ethernet, and phone hotspots at the same time (per-connection load balancing; no account, no VPN). macOS, Windows, Linux, and Android. Site: [net-merge.org](https://net-merge.org). Install (macOS/Linux): `curl -fsSL https://raw.githubusercontent.com/net-merge/net-merge/main/install.sh | sh`. Or Homebrew tap: `brew install net-merge/tap/net-merge && sudo "$(brew --prefix)/bin/net-merge" install && net-merge tray`. Also see Windows notes.
 
 ## Smart TV
 
