@@ -21,3 +21,7 @@ Notes for Windows machines and cross-platform boot tools. Third-party apps are l
 ## PDF tools
 
 - **[Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)** — Open-core, self-hostable PDF toolbox (edit, merge, split, convert, OCR, sign, compress, redact). Windows: `winget install StirlingTools.StirlingPDF`. Site: [stirling.com](https://stirling.com/). Also see macOS notes.
+
+## Multi-device desk
+
+- **[Beamer](https://github.com/kalkman-code/beamer)** — GPL-3.0 software KVM: share one keyboard, mouse/trackpad, and clipboard between Windows 10/11, macOS, and Linux over your local network. Site: [kalkmancode.co.uk/beamer](https://kalkmancode.co.uk/beamer). Installer on [releases](https://github.com/kalkman-code/beamer/releases/latest). Also see macOS notes.

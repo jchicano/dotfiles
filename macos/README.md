@@ -20,6 +20,7 @@ Notes and prefs for this machine. Third-party apps are linked, not vendored.
 ## Multi-device desk
 
 - **[TwinDesk](https://github.com/InukaAsith/TwinDesk)** — Share screens, apps, files, clipboard, mouse/keyboard, calls, texts, and notifications across Mac, Windows, Linux, and Android. Free, open source, no account/cloud; works over Wi‑Fi, USB, Bluetooth, or Wi‑Fi Direct. Site: [twin-desk.vercel.app](https://twin-desk.vercel.app). macOS 13+ (Apple Silicon / Intel DMG).
+- **[Beamer](https://github.com/kalkman-code/beamer)** — GPL-3.0 software KVM: share one keyboard, mouse/trackpad, and clipboard across Macs (13+, Apple Silicon/Intel), Windows 10/11, and Linux (experimental Flatpak) over your local network, in either direction; no account or cloud. Site: [kalkmancode.co.uk/beamer](https://kalkmancode.co.uk/beamer). Download from [releases](https://github.com/kalkman-code/beamer/releases/latest) (note: `brew install --cask beamer` is a different Softorino casting app).
 
 ## Menu bar utilities
 
